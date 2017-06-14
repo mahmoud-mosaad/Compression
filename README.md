@@ -5,12 +5,12 @@ Bad Implementation v0.1 "Modules Based Design"
 
 # Available Algorithms
 
-LZ77
-LZW
-Arithmetic
-Huffman
-Scalar-Quantizer
-Vector-Quantizer
+LZ77 \
+LZW \
+Arithmetic \
+Huffman \
+Scalar-Quantizer \
+Vector-Quantizer \
 
 # Soon
 
