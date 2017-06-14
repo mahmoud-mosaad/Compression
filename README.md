@@ -10,7 +10,7 @@ LZW \
 Arithmetic \
 Huffman \
 Scalar-Quantizer \
-Vector-Quantizer \
+Vector-Quantizer
 
 # Soon
 
